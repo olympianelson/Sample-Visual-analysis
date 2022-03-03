@@ -21,7 +21,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://p1.storage.canalblog.com/22/08/1231160/95647493.jpg">
 
-# Basic usage
 
 ## Biography
 
@@ -41,10 +40,10 @@ The most monumental and foundational sources of evidence that exist on Sarti com
  
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="San Silvestro Papa" 
+       description="painting by Ercole Sarti" 
        license="public domain" 
-       url="https://p1.storage.canalblog.com/22/08/1231160/95647493.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/1/10/Ercole_sarti%2C_san_silvestro_papa%2C_1600-30_ca._%28ferrara%29.jpg">
 
 ## Map
 
