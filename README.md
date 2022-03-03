@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Ercole Sarti"
        author="JSTOR Labs team"
        banner="https://p1.storage.canalblog.com/22/08/1231160/95647493.jpg" 
        layout="vertical">
