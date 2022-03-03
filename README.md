@@ -63,21 +63,21 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 Lo Conte, Angelo. “Talking colours”. (need more bibliographic info)
 
-Bryan, Michael. A Biographical and Critical Dictionary of Painters and Engravers: From the Revival of the Art Under Cimabue, and the Alleged Discovery of Engaving by Finiguerra, to the Present Time. United Kingdom: Cambridge University Press, (1816) 2015.
+Bryan, Michael. _A Biographical and Critical Dictionary of Painters and Engravers: From the Revival of the Art Under Cimabue, and the Alleged Discovery of Engaving by Finiguerra, to the Present Time._ United Kingdom: Cambridge University Press, (1816) 2015.
 
-Frizzi, Antonio. Memorie per la storia di Ferrara: 5, 1-5, 1848. 
+Frizzi, Antonio. _Memorie per la storia di Ferrara_: 5, 1-5, 1848. 
 
-Lanzi, Luigi. Storia pittorica della Italia dell'ab. Luigi Lanzi antiquario della r. corte di Toscana. Tomo primo, 1795.
+Lanzi, Luigi. _Storia pittorica della Italia dell'ab. Luigi Lanzi antiquario della r. corte di Toscana_. Tomo primo, 1795.
 Michaud, Louis Gabriel. Biographie Universelle Ancienne et Moderne, 38, 1864.
 
-Nigaglioni, Michel Édouard. Giuseppe Badaracco et la Corse : Redécouverte d'un peintre, 2005.
+Nigaglioni, Michel Édouard. _Giuseppe Badaracco et la Corse : Redécouverte d'un peintre_, 2005.
 
 Novelli, Maria Angela. “Un pittore ferrarese nella Galeria di Giambattista Marino”, L'Aquila bianca, 2000. 
 
-Pilkington, Matthew. A General Dictionary of Painters: Containing Memoirs of the Lives and Works of the Most Eminent Professors of the Art of Painting, from Its Revival, by Cimabue, in the Year 1250, to the Present Time. A New Edition, Revised and Corrected Throughout, with Numerous Additions, Particularly of the Most Distinguished Artists of the British School. United Kingdom, T. M'Lean, 1824.
+Pilkington, Matthew. _A General Dictionary of Painters: Containing Memoirs of the Lives and Works of the Most Eminent Professors of the Art of Painting, from Its Revival, by Cimabue, in the Year 1250, to the Present Time_. A New Edition, Revised and Corrected Throughout, with Numerous Additions, Particularly of the Most Distinguished Artists of the British School. United Kingdom, T. M'Lean, 1824.
 
-Settari, Gregorio. Efemeridi letterarie di Roma, 1772. 
+Settari, Gregorio. _Efemeridi letterarie di Roma_, 1772. 
 
-Soprani, Raffaelle. Vite de' pittori, scultori, ed architetti genovesi. Nella stamperia Casamara, dalle cinque Lampadi, con licenza de' Superiori. Italy, Forni, 1768.
+Soprani, Raffaelle. _Vite de' pittori, scultori, ed architetti genovesi. Nella stamperia Casamara, dalle cinque Lampadi, con licenza de' Superiori._ Italy, Forni, 1768.
 
-Ticozzi, Stefano. Dizionario degli architetti, scultori, pittori: intagliatori in rame ed in pietra, coniatori di medaglie, musaicisti, niellatori, intarsiatori d'ogni età e d'ogni nazione. Italy, Gaetano Schiepatti, 1830.
+Ticozzi, Stefano. _Dizionario degli architetti, scultori, pittori: intagliatori in rame ed in pietra, coniatori di medaglie, musaicisti, niellatori, intarsiatori d'ogni età e d'ogni nazione_. Italy, Gaetano Schiepatti, 1830.
