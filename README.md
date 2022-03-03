@@ -3,7 +3,7 @@
 <param ve-config 
        title="Ercole Sarti"
        author="JSTOR Labs team"
-       banner="https://p1.storage.canalblog.com/22/08/1231160/95647493.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/10/Ercole_sarti%2C_san_silvestro_papa%2C_1600-30_ca._%28ferrara%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
