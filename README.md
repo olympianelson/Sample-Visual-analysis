@@ -2,7 +2,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Madonna of the plague"
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -32,7 +32,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://p1.storage.canalblog.com/22/08/1231160/95647493.jpg">
 
 ## Map
 
