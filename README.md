@@ -13,6 +13,7 @@
 <param ve-entity eid="Q34595"> <!-- Ficarolo -->
 <param ve-entity eid="Q332489"> <!-- Giambattista Marino -->
 <param ve-entity eid="Q6572"> <!-- Rovigo -->
+<param ve-entity eid="Q3767250"> <!-- Giovanni Fontana -->
 
 # Ercole Sarti
 
